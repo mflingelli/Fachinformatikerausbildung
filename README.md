@@ -19,7 +19,7 @@ Als Muster diente mir der auf der Webseite des [Bundesinstituts für Berufsbildu
 
 Der Ordner ```Ausbildungsnachweis``` enthält das Muster eines wöchentlichen Ausbildungsnachweises.
 
-Als Muster diente mir der auf der Webseite des [Bundesinstituts für Berufsbildung](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/practice_examples/checklisten_und_muster/AG_FI_Kap_2.1.6_Muster_Ausbildungsnachweis.pdf) veröffentlichte Ausbildungsnachweis der Fachinformatikerausbildung.
+Als Muster dienten mir der auf der Webseite des [Bundesinstituts für Berufsbildung](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/practice_examples/checklisten_und_muster/AG_FI_Kap_2.1.6_Muster_Ausbildungsnachweis.pdf) veröffentlichte Ausbildungsnachweis der Fachinformatikerausbildung und das Muster auf der Webseite der [IHK Stuttgart](https://www.stuttgart.ihk24.de/fuer-azubis/vertraege/berichtsheft-670862).
 
 
 ## Ausschluss
